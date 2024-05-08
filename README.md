@@ -110,7 +110,7 @@ Runtime depends on model complexity and the size of the data set (for individual
 
 The pentanucleotide model estimates 3072 mutation probability parameters and should therefore only be used when the number of mutations in the data set is sufficiently large (on the order of tens of thousands).
 
-Changes relative to the legacy version [CBaSE v1.1](http://genetics.bwh.harvard.edu/cbase/CBaSE_v1.1.zip):
+Changes relative to the legacy version [CBaSE v1.1](http://genetics.bwh.harvard.edu/cbase/downloads.html):
 
 - Export of many new estimates (see above):
   - Magnitude of selection: dN/dS, dM/dS and dK/dS.
