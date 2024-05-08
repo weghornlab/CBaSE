@@ -4,7 +4,7 @@ CBaSE is a tool which derives gene-specific probabilistic estimates of the stren
 
 ## Running CBaSE
 
-Download the CBaSEv1.2.zip file from https://weghornlab.net/Software, unzip it and run the following command within the folder:
+Download the CBaSEv1.2.zip file from [https://weghornlab.net/Software](https://weghornlab.net/Software), unzip it and run the following command within the folder:
 
 > python CBaSE_v1.2.py INFILE VCF BUILD CMODE MODEL OUTNAME
 
