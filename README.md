@@ -123,6 +123,8 @@ Changes relative to the legacy version [CBaSE v1.1](http://genetics.bwh.harvard.
 - Computation of the q-value with the standard Benjamini-Hochberg method.
 - Removal of pseudocounts in the pentanucleotide matrix.
 
+If you have any questions at all, do not hesitate to write to us at <dweghorn@crg.eu>.
+
 If you find our method useful, we would appreciate it if you could cite [our paper](https://www.nature.com/articles/ng.3987):
 
 Weghorn, D., & Sunyaev, S. (2017). Bayesian inference of negative and positive selection in human cancers. Nature Genetics, 49(12), 1785-1788.
