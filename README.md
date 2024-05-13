@@ -15,7 +15,7 @@ Download the CBaSEv1.2.zip file from [https://weghornlab.net/software.html](http
 | INFILE | Somatic mutation data input file. | str |
 | VCF      | 1 = input format is vcf, 0 = input format is CBaSE v1.0 input format. | int |
 | BUILD      | One of [hg19, hg38] (not used when VCF==0). | str |
-| CMODE      | 3 = trinucleotides, 5 = pentanucleotides, 7 = heptanucleotides. | int |
+| CMODE      | 3 = trinucleotides, 5 = pentanucleotides. | int |
 | MODEL      | Model choice for P(lambda): 0 = all, 1 = Gamma (G), 2 = InverseGamma (IG), 3 = Exp+G, 4 = Exp+IG, 5 = G+G, 6 = G+IG. | int |
 | OUTNAME      | Name of data set. | str |
 
@@ -124,6 +124,6 @@ Changes relative to the legacy version [CBaSE v1.1](http://genetics.bwh.harvard.
 
 If you have any questions at all, do not hesitate to write to us at <dweghorn@crg.eu>.
 
-If you find our method useful, we would appreciate it if you could cite [our paper](https://www.nature.com/articles/ng.3987):
+If you find our method useful, we would appreciate it if you cited [our paper](https://www.nature.com/articles/ng.3987):
 
 Weghorn, D., & Sunyaev, S. (2017). Bayesian inference of negative and positive selection in human cancers. Nature Genetics, 49(12), 1785-1788.
